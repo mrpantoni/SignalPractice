@@ -1,0 +1,6 @@
+C:\Users\antoni.peter\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\bin\Debug\SzamkitalaloJatek.exe.config
+C:\Users\antoni.peter\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\bin\Debug\SzamkitalaloJatek.exe
+C:\Users\antoni.peter\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\bin\Debug\SzamkitalaloJatek.pdb
+C:\Users\antoni.peter\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.exe
+C:\Users\antoni.peter\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.pdb
