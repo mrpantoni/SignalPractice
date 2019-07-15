@@ -1,0 +1,9 @@
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\bin\Debug\netstandard2.0\GyakorloFeladatok2.deps.json
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\bin\Debug\netstandard2.0\GyakorloFeladatok2.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\bin\Debug\netstandard2.0\GyakorloFeladatok2.pdb
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\obj\Debug\netstandard2.0\GyakorloFeladatok2.csprojAssemblyReference.cache
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\obj\Debug\netstandard2.0\GyakorloFeladatok2.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\obj\Debug\netstandard2.0\GyakorloFeladatok2.AssemblyInfoInputs.cache
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\obj\Debug\netstandard2.0\GyakorloFeladatok2.AssemblyInfo.cs
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\obj\Debug\netstandard2.0\GyakorloFeladatok2.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2\obj\Debug\netstandard2.0\GyakorloFeladatok2.pdb

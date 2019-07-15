@@ -1,0 +1,16 @@
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\obj\Debug\GyakorloFeladatok2.Test.csprojAssemblyReference.cache
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\obj\Debug\GyakorloFeladatok2.Test.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\GyakorloFeladatok2Test.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\GyakorloFeladatok2Test.pdb
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\GyakorloFeladatok2.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\GyakorloFeladatok2.pdb
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\obj\Debug\GyakorloFeladatok2.Test.csproj.CopyComplete
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\obj\Debug\GyakorloFeladatok2Test.dll
+C:\Users\antoni.peter\source\repos\GyakorloFeladatok2\GyakorloFeladatok2Test\obj\Debug\GyakorloFeladatok2Test.pdb
