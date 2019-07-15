@@ -1,0 +1,6 @@
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExercise\bin\Debug\FactorialExercise.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExercise\bin\Debug\FactorialExercise.pdb
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExercise\obj\Debug\FactorialExercise.csprojAssemblyReference.cache
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExercise\obj\Debug\FactorialExercise.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExercise\obj\Debug\FactorialExercise.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExercise\obj\Debug\FactorialExercise.pdb

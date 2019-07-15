@@ -1,0 +1,16 @@
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\obj\Debug\FactorialExerciseTests.csprojAssemblyReference.cache
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\obj\Debug\FactorialExerciseTests.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\FactorialExerciseTests.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\FactorialExerciseTests.pdb
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\FactorialExercise.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\FactorialExercise.pdb
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\obj\Debug\FactorialExerciseTests.csproj.CopyComplete
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\obj\Debug\FactorialExerciseTests.dll
+C:\Users\antoni.peter\source\repos\FactorialExercise\FactorialExerciseTests\obj\Debug\FactorialExerciseTests.pdb
