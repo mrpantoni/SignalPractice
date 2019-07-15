@@ -1,0 +1,7 @@
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\bin\Debug\AtlagHomerseklet.exe.config
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\bin\Debug\AtlagHomerseklet.exe
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\bin\Debug\AtlagHomerseklet.pdb
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\obj\Debug\AtlagHomerseklet.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\obj\Debug\AtlagHomerseklet.exe
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\obj\Debug\AtlagHomerseklet.pdb
+C:\Users\antoni.peter\source\repos\AtlagHomerseklet\AtlagHomerseklet\obj\Debug\AtlagHomerseklet.csprojAssemblyReference.cache
