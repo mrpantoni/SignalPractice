@@ -1,0 +1,7 @@
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.exe.config
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.exe
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.pdb
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.csprojAssemblyReference.cache
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.csproj.CoreCompileInputs.cache
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.exe
+C:\Users\antoni.peter\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.pdb
